@@ -3,17 +3,17 @@
 =============================================================== */
 
 window.PROJECT_ID = "3528470";
-window.PROJECT_NAME = "Revanza Fortune Greens";
-window.DEVELOPER_NAME = "Revanza Developers";
-window.RERA_NO = "DTCP Approved";
+window.PROJECT_NAME = "Sattva City";
+window.DEVELOPER_NAME = "Sattva Group";
+window.RERA_NO = "PRM/KA/RERA/1251/472/PR/270226/008494";
 window.WHATSAPP_NO = "919560582493";
 window.CALL_NO = "919718344024";
 window.CALL_DISPLAY = "+91 9718344024";
 window.WHATSAPP_URL = "https://wa.me/" + window.WHATSAPP_NO + "?text=" + encodeURIComponent("Hi I am interested in " + window.PROJECT_NAME);
 window._cLink = window.WHATSAPP_URL;
 
-window.CITY_DISPLAY = "Chennai";
-window.CITY_SLUG = "chennai";
+window.CITY_DISPLAY = "Bengaluru";
+window.CITY_SLUG = "bengaluru";
 window.CITY_ID = "2";
 window.SHEET_NAME = "Chennai";
 window.SECRET_KEY = "6c7f9ad8b2a1e0f4d5a8c0b9f6e2a4d190";
@@ -21,7 +21,7 @@ window.SECRET_KEY = "6c7f9ad8b2a1e0f4d5a8c0b9f6e2a4d190";
 window.SHEET_WEBHOOK = "https://script.google.com/macros/s/AKfycbw2MGrCI0lVGZZD049RrqM52ubNIHHZLzuk7mIg9KMVacJREV9sw05jnPMvT5OeNtWt/exec";
 window.PROPTIGER_URL = "https://www.proptiger.com/data/v1/entity/enquiry";
 window.GTM_ID = "GTM-575H8R87";
-window.BASE_URL = "https://revanzafortunegreens.co.in";
+window.BASE_URL = "https://sattvacitydoddajala.co.in";
 
 // Auto-bind configuration variables to UI elements
 window.applyProjectConfig = function () {

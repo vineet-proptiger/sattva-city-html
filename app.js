@@ -1,5 +1,5 @@
 /* ===============================================================
-   REVANZA FORTUNE GREENS — JAVASCRIPT UI ENGINE
+   SATTVA CITY — JAVASCRIPT UI ENGINE
 =============================================================== */
 
 // ── 1. Hero Concept 3: Horizontal Scroll/Swipe & Auto-Slide Engine ──
@@ -187,11 +187,11 @@ window.switchPlanTab = function (tab) {
 
 // ── 3. Gallery Lightbox Engine ───────────────────────────────
 const galleryItems = [
-  { src: 'images/gallery/g1.webp', title: 'Master Aerial View', category: 'Plotted Community Overview' },
+  { src: 'images/gallery/g1.webp', title: 'Master Aerial View', category: 'Township Overview' },
   { src: 'images/gallery/g2.webp', title: 'Grand Clubhouse & Amenities', category: 'Club & Recreation' },
   { src: 'images/gallery/g3.webp', title: 'Grand Entrance Archway', category: 'Community Arrival' },
   { src: 'images/gallery/g4.webp', title: 'Landscaped Green Spaces', category: 'Parks & Nature' },
-  { src: 'images/gallery/g5.webp', title: 'Premium Plotted Layout', category: 'Residential Living' },
+  { src: 'images/gallery/g5.webp', title: 'Luxury Residential Township', category: 'Residential Living' },
 ];
 
 let curGalleryIdx = 0;
